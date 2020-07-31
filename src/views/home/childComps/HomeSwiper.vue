@@ -36,7 +36,6 @@
           this.$emit('swiperImageLoad')
           this.isLoad = true
         }
-        
       }
     },
   }
